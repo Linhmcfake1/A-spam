@@ -1,0 +1,25 @@
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("StampAsset"):InvokeServer(unpack(args))
+local args = {
+    [1] = 56451715,
+    [2] = CFrame.new(-166, 27.500017166137695, 41.999969482421875, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [3] = "{192e0f3a-ccae-4949-a761-cf3401945a7b}",
+    [4] = {
+        [1] = workspace:WaitForChild("Plates"):WaitForChild("Plate2"):WaitForChild("ActiveParts"):WaitForChild("Block - Slate"):WaitForChild("Smooth Block Model")
+    },
+    [5] = 0
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("StampAsset"):InvokeServer(unpack(args))
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("StampAsset"):InvokeServer(unpack(args))
+local args = {
+    [1] = 56451715,
+    [2] = CFrame.new(-42, 27.500019073486328, 41.999969482421875, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+    [3] = "{caf87dcb-82f9-4658-bad1-2c2eaa1f267c}",
+    [4] = {
+        [1] = workspace:WaitForChild("Plates"):WaitForChild("Plate1"):WaitForChild("ActiveParts"):WaitForChild("Block - Slate"):WaitForChild("Smooth Block Model")
+    },
+    [5] = 0
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("StampAsset"):InvokeServer(unpack(args))
